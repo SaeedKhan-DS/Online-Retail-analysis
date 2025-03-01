@@ -12,6 +12,7 @@ Customer Purchase Patterns 🛒
 Identified the most frequently purchased products using aggregation.
 Merged datasets to analyze stock movements and customer behavior.
 Key Insights:
+
 📌 Top-Selling Products: Certain stock codes appeared most frequently, indicating popular items in demand.
 
 📌 Data Consistency Issues: Some product descriptions were missing, requiring data imputation techniques.
